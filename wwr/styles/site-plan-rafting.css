@@ -1,4 +1,10 @@
-@import url (https://fonts.google.com/specimen/Lato)
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 :root {
-    --primary - color: #125187195 
+    --primary-color: #8A95A5;
+    --secondary-color: #546A7B;
+    --accent1-color: #A1C6EA;
+    --accent2-color: #2E6171;
+
+    --heading-font: 'pacifico' 
+    --paragraph-font:
 }
